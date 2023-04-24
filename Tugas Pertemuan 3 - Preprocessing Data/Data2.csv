@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Brazil,44,72000,No
+Sweden,27,48000,Yes
+Germany,33,54000,No
+Spain,,61000,No
+China,40,81000,Yes
+France,35,58000,No
+Japan,28,52000,Yes
+Germany,48,,Yes
+Japan,51,83000,No
+Germany,37,62000,Yes
